@@ -1,0 +1,8 @@
+com\loplop\spring\tutorial\mail\MockMailSender.class
+com\loplop\spring\tutorial\controller\HelloController.class
+com\loplop\spring\tutorial\mail\DemoBean.class
+com\loplop\spring\tutorial\mail\MailSender.class
+com\loplop\spring\tutorial\controller\MailController.class
+com\loplop\spring\tutorial\mail\MailConfig.class
+com\loplop\spring\tutorial\mail\SmtpMailSender.class
+com\loplop\spring\tutorial\LopSpringTutorial.class
